@@ -1,6 +1,9 @@
 # Created by https://www.gitignore.io/api/c++,unrealengine,visualstudio
 # Edit at https://www.gitignore.io/?templates=c++,unrealengine,visualstudio
 
+###Unreal StarterPack###
+Content/StarterContent
+
 ### C++ ###
 # Prerequisites
 *.d
